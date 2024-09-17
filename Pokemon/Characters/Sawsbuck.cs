@@ -12,9 +12,9 @@ namespace Pokemon.Characters
         public Sawsbuck()
         {
             Id = 0;
-            Hp = 25;
+            Hp = 55;
             Name = "Sawsbuck";
-            Attack = "Facade";
+            Attack = "Facade + POP";
             Deffense = "BlockDamage";
             Speed = 3.05f;
             SpecialAttack = new SpecialAttack
