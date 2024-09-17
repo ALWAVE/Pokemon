@@ -26,6 +26,7 @@ namespace Pokemon.Characters
                 Name = "BlockDamage",
                 Protection = 50
             };
+          
         }
 
     }

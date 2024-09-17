@@ -13,7 +13,7 @@ namespace Pokemon
 
         private void DisplayPokemonInfo()
         {
-           
+
 
 
             // Создаем экземпляр Ullumise
@@ -30,6 +30,8 @@ namespace Pokemon
 
             Sawsbuck sawsbuck = new Sawsbuck();
 
+
+            label22.Text = $"Special Attack Upgrade: {sawsbuck.SpecialAttackUpgrade?.Name} (Power: {sawsbuck.SpecialAttackUpgrade?.Power})";
             label14.Text = sawsbuck.Name;
             label13.Text = $"HP: {sawsbuck.Hp}";
             label12.Text = $"Attack: {sawsbuck.Attack}";
@@ -40,6 +42,7 @@ namespace Pokemon
 
             Deerling deerling = new Deerling();
 
+         
             label21.Text = deerling.Name;
             label20.Text = $"HP: {deerling.Hp}";
             label19.Text = $"Attack: {deerling.Attack}";
@@ -52,6 +55,11 @@ namespace Pokemon
 
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
         {
 
         }

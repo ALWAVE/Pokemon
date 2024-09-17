@@ -27,6 +27,13 @@ namespace Pokemon.Characters
                 Name = "HoofProtection",
                 Protection = 5
             };
+            SpecialAttackUpgrade = new SpecialAttack
+            {
+                Name = "Swager",
+                Power = 115
+            };
+
+
         }
     }
 }
