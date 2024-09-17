@@ -58,6 +58,7 @@
             label20 = new Label();
             label21 = new Label();
             pictureBox3 = new PictureBox();
+            label24 = new Label();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox2.SuspendLayout();
@@ -68,6 +69,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(label24);
             groupBox1.Controls.Add(label6);
             groupBox1.Controls.Add(label5);
             groupBox1.Controls.Add(label7);
@@ -78,7 +80,7 @@
             groupBox1.Controls.Add(pictureBox1);
             groupBox1.Location = new Point(43, 90);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(360, 399);
+            groupBox1.Size = new Size(360, 538);
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
             groupBox1.Text = "Pokemon1";
@@ -357,6 +359,15 @@
             pictureBox3.TabIndex = 0;
             pictureBox3.TabStop = false;
             // 
+            // label24
+            // 
+            label24.AutoSize = true;
+            label24.Location = new Point(41, 431);
+            label24.Name = "label24";
+            label24.Size = new Size(44, 15);
+            label24.TabIndex = 6;
+            label24.Text = "label24";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -411,5 +422,6 @@
         private PictureBox pictureBox3;
         private Label label22;
         private Label label23;
+        private Label label24;
     }
 }

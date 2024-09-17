@@ -26,7 +26,11 @@ namespace Pokemon.Characters
                 Name = "BlockDamage",
                 Protection = 50
             };
-          
+            SpecialAttackUpgrade = new SpecialAttack
+            {
+                Name = "Fire Blast",
+                Power = 215
+            };
         }
 
     }

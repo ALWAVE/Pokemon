@@ -20,6 +20,7 @@ namespace Pokemon
             Ullumise illumise = new Ullumise();
 
             // Присваиваем значения элементам управления
+            label24.Text = $"Special Attack Upgrade: {illumise.SpecialAttackUpgrade?.Name} (Power: {illumise.SpecialAttackUpgrade?.Power})";
             label1.Text = illumise.Name;
             label2.Text = $"HP: {illumise.Hp}";
             label3.Text = $"Attack: {illumise.Attack}";
