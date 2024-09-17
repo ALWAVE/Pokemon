@@ -17,6 +17,8 @@ namespace Pokemon
 
       public SpecialAttack ?SpecialAttack { get; set; }
       public SpecialAttack? SpecialAttackUpgrade { get; set; }
+
       public SpecialProtection ?SpecialProtection { get; set; }
+      public SpecialProtection? SpecialProtectionUpgrade { get; set; }
     }
 }

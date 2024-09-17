@@ -27,6 +27,11 @@ namespace Pokemon.Characters
                 Name = "HoofProtection",
                 Protection = 5
             };
+            SpecialProtectionUpgrade = new SpecialProtection
+            {
+                Name = "Second Damage Added",
+                Protection = 99
+            };
             SpecialAttackUpgrade = new SpecialAttack
             {
                 Name = "Swager",

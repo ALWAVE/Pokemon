@@ -30,7 +30,7 @@ namespace Pokemon
 
             Sawsbuck sawsbuck = new Sawsbuck();
 
-
+            label23.Text = $"Special Protection Upgrade: {sawsbuck.SpecialProtectionUpgrade?.Name} (Power: {sawsbuck.SpecialProtectionUpgrade?.Protection})";
             label22.Text = $"Special Attack Upgrade: {sawsbuck.SpecialAttackUpgrade?.Name} (Power: {sawsbuck.SpecialAttackUpgrade?.Power})";
             label14.Text = sawsbuck.Name;
             label13.Text = $"HP: {sawsbuck.Hp}";
