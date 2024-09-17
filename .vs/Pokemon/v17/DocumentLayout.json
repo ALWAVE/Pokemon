@@ -11,6 +11,37 @@
       "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\characters\\sawsbuck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\specialattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\specialattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\characters\\deerling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\characters\\deerling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|C:\\Users\\aptem\\Desktop\\Pokemon\\pokemon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\specialprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\specialprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> Pokemon1
       "AbsoluteMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|c:\\users\\aptem\\desktop\\pokemon\\pokemon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EC8271-1289-4631-9644-EFFE9DFC9AAA}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +81,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 7,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Pokemon1
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +97,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Sawsbuck.cs",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Characters\\Sawsbuck.cs",
@@ -101,6 +137,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Pokemon1
               "Title": "Deerling.cs",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Characters\\Deerling.cs",
               "RelativeDocumentMoniker": "Pokemon\\Characters\\Deerling.cs",
@@ -109,6 +148,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:15:37.901Z"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -121,6 +161,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:07:32.836Z"
+=======
+>>>>>>> Pokemon1
             },
             {
               "$type": "Document",
@@ -137,7 +179,47 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 1,
+              "Title": "Sawsbuck.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Characters\\Sawsbuck.cs",
+              "RelativeDocumentMoniker": "Pokemon\\Characters\\Sawsbuck.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Characters\\Sawsbuck.cs",
+              "RelativeToolTip": "Pokemon\\Characters\\Sawsbuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:15:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Pokemon\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Pokemon.cs",
+              "RelativeToolTip": "Pokemon\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:01:05.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialAttack.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\SpecialAttack.cs",
+              "RelativeDocumentMoniker": "Pokemon\\SpecialAttack.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\SpecialAttack.cs",
+              "RelativeToolTip": "Pokemon\\SpecialAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:04:10.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+>>>>>>> Pokemon1
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Form1.cs",
               "RelativeDocumentMoniker": "Pokemon\\Form1.cs",
@@ -148,6 +230,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Pokemon.cs",
@@ -157,10 +240,34 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:01:05.913Z"
+=======
+              "DocumentIndex": 6,
+              "Title": "SpecialProtection.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\SpecialProtection.cs",
+              "RelativeDocumentMoniker": "Pokemon\\SpecialProtection.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\SpecialProtection.cs",
+              "RelativeToolTip": "Pokemon\\SpecialProtection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:04:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "Pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Program.cs",
+              "RelativeToolTip": "Pokemon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:07:32.836Z"
+>>>>>>> Pokemon1
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< HEAD
               "Title": "SpecialAttack.cs",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\SpecialAttack.cs",
               "RelativeDocumentMoniker": "Pokemon\\SpecialAttack.cs",
@@ -173,6 +280,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+=======
+>>>>>>> Pokemon1
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Pokemon\\Form1.Designer.cs",
@@ -181,6 +290,21 @@
               "ViewState": "AQIAABYAAAAAAAAAAAAWwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T18:24:51.033Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Form1.cs",
+              "RelativeDocumentMoniker": "Pokemon\\Form1.cs",
+              "ToolTip": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Form1.cs",
+              "RelativeToolTip": "Pokemon\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:11:04.178Z"
+>>>>>>> Pokemon1
             }
           ]
         }
