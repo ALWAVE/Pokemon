@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aptem\\OneDrive\\Рабочий стол\\Pokemon\\Pokemon\\Pokemon.csproj",
+      "projectUniqueName": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Pokemon.csproj",
       "projectName": "Pokemon",
-      "projectPath": "C:\\Users\\aptem\\OneDrive\\Рабочий стол\\Pokemon\\Pokemon\\Pokemon.csproj",
+      "projectPath": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\Pokemon.csproj",
       "packagesPath": "C:\\Users\\aptem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aptem\\OneDrive\\Рабочий стол\\Pokemon\\Pokemon\\obj\\",
+      "outputPath": "C:\\Users\\aptem\\Desktop\\Pokemon\\Pokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio 22\\VSSDK\\NuGetPackages"
