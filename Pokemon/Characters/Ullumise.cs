@@ -19,13 +19,14 @@ namespace Pokemon.Characters
             SpecialAttack = new SpecialAttack
             {
                 Name = "Amnesia Splash",
-                Power = 110
+                Power = 210
             };
             SpecialProtection = new SpecialProtection
             {
                 Name = "BlockDamage",
                 Protection = 50
             };
+
         }
 
     }
