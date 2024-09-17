@@ -24,7 +24,7 @@ namespace Pokemon.Characters
             };
             SpecialProtection = new SpecialProtection
             {
-                Name = "ParryDamage",
+                Name = "ParryDamage Ultimate",
                 Protection = 33
             };
         }

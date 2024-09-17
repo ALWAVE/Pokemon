@@ -18,7 +18,7 @@ namespace Pokemon.Characters
             Speed = 1.05f;
             SpecialAttack = new SpecialAttack
             {
-                Name = "Amnesia",
+                Name = "Amnesia Splash",
                 Power = 110
             };
             SpecialProtection = new SpecialProtection
