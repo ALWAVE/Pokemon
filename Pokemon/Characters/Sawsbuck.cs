@@ -35,7 +35,7 @@ namespace Pokemon.Characters
             SpecialAttackUpgrade = new SpecialAttack
             {
                 Name = "Swager",
-                Power = 115
+                Power = 215
             };
 
 
