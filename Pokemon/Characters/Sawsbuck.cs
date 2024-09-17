@@ -15,7 +15,7 @@ namespace Pokemon.Characters
             Hp = 55;
             Name = "Sawsbuck";
             Attack = "Facade + POP";
-            Deffense = "BlockDamage";
+            Deffense = "BlockDamage + Good Block";
             Speed = 3.05f;
             SpecialAttack = new SpecialAttack
             {
